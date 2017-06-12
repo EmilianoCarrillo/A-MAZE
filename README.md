@@ -1,9 +1,8 @@
 # A-MAZE
 Arduino based physical maze contolled by your android's gyroscope or accelerometer (With Amarino).
+[WATCH THE VIDEO HERE!](https://www.youtube.com/watch?v=Y47SejKMJvk)
 
-
-## This is the front view of the beta project
-![AMAZE](https://raw.githubusercontent.com/emiliano-carrillo/A-MAZE/master/photos/amaze.png)
+![CoverPhoto](https://github.com/emiliano-carrillo/A-MAZE/blob/master/photos/amazecove.png?raw=true)
 
 ## The base
 ![AMAZE](https://raw.githubusercontent.com/emiliano-carrillo/A-MAZE/master/photos/base.png)
